@@ -10,6 +10,7 @@ namespace Lesson4_4
     {
         static void Main(string[] args)
         {
+            // Я допишу ее позднее
         }
     }
 }
