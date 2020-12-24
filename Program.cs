@@ -19,7 +19,7 @@ namespace Lesson4
             int x;
             Console.WriteLine("Добро пожаловать в программу поиска числа Фибоначчи порядка n. ");
             Console.WriteLine("Введите искомое n:");
-                  x=Convert.ToInt32(System.Console.ReadLine())
+                  x=Convert.ToInt32(System.Console.ReadLine());
          for (int i=0;i<x);i++)  Console.WriteLine(fibonacci(x) );
 System.Console.ReadLine();
         }
