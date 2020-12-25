@@ -2,6 +2,7 @@
 .git/
 bin/
 obj/
+.gitignore
 App.config
 Properties
 
