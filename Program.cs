@@ -18,7 +18,7 @@ namespace Lesson4_4
             Console.ReadLine();
         }
 
-        static long fib(long n)
+        static decimal fib(decimal n)
         {
             if (n == 0 || n == 1)
                 return n;
